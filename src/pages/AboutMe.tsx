@@ -8,12 +8,12 @@ const skills = [
   {
     icon: Layers,
     title: "3D Modeling",
-    description: "Expert in CAD software and 3D design workflows for both functional and artistic creations"
+    description: "Amateur in Blender, designing projects for functional and aesthetic purposes."
   },
   {
     icon: Printer,
     title: "3D Printing",
-    description: "Proficient in FDM and resin printing with expertise in material selection and post-processing"
+    description: "Experienced in printing with my Ankermake M5C with PLA filament."
   },
   {
     icon: Box,
@@ -49,9 +49,7 @@ const AboutMe = () => {
             About Me
           </h1>
           <p className="text-xl text-muted-foreground leading-relaxed">
-            I'm a passionate 3D creator specializing in bringing digital designs to life through modeling and printing. 
-            My work spans from intricate artistic pieces to functional mechanical parts, always pushing the boundaries 
-            of what's possible with modern fabrication technology.
+            I never thought the old, rackety hunk of plastic and conveyor belts would lead me to a whole world of designing and art... I was pretty terrible at drawing, and somehow, adding another dimension made it more fun even though it seems more complex.
           </p>
         </div>
       </section>
